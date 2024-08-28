@@ -59,13 +59,13 @@ st.markdown(
         left: 0;
         width: 100%;
         background-color: #333;
-        color: #ff4500;
+        color: #ff9900;
         text-align: center;
         padding: 10px;
     }
     </style>
     <div class="footer">
-        Made with love by <a href="https://kartavyadesai.github.io/" target="Kartavya Desai">Kartavya</a>
+        Made by <a href="https://kartavyadesai.github.io/" target="Kartavya Desai">Kartavya</a>
     </div>
     """,
     unsafe_allow_html=True
